@@ -1,0 +1,8 @@
+
+{
+  "name": "JM FX Expert Analyst",
+  "description": "A high-end Forex analysis platform that leverages Gemini AI to provide professional-grade technical analysis and live market signals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
